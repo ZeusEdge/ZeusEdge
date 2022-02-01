@@ -20,4 +20,4 @@ mcrypt -z <zipped_archived_folder>
 
 Enter password & Verify password
 
-mdecrypt -z <zipped_archived_folder.tar.bz2.gz.nc>
+Decrypting - $ mcrypt -d <zipped_archived_folder.tar.bz2.gz.nc>
