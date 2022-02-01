@@ -8,3 +8,6 @@
 ZeusEdge/ZeusEdge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Study Log for the Week
+Week 3 => Monday: 1 | Tuesday:  | Wednesday:  | Thursday:  | Friday:  | Saturday:  | Sunday:  | **Total**: **1**
