@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZeusEdge
+- 👋 Hi, I’m **Ademola Ilugbusi Samuel**
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps basics
 - 💞️ I’m looking to collaborate on DevOps
